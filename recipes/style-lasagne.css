@@ -1,0 +1,39 @@
+* {
+    font-size: 36px;
+}
+
+.hbutton {
+    position: absolute;
+    top: 0;
+    right:0;
+}
+
+h1 {
+    color: rgb(160, 61, 3);
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(160, 61, 3);
+}
+
+img {
+    width: 300px;
+    height: auto;
+    float:right;
+}
+
+p {
+    line-height: 0.5;
+    color: orange;
+}
+ul {
+    line-height: 0.8;
+    color: orange;
+}
+
+ol {
+    line-height: 1.2;
+    color: orange;
+}
+
