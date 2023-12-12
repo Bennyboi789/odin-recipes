@@ -6,34 +6,33 @@
     position: absolute;
     top: 0;
     right:0;
+    margin: 20px;
 }
 
+div{
+    margin-left: 50px;
+}
 
 h1 {
-    color: red;
-    font-size: 50px;
+    font-size: 60px;
 }
 
+h1,
 h2 {
-    color: red;
+    color: rgb(160, 61, 3);
+    margin: 10px;
 }
 
 img {
-    width: 300px;
-    height: auto;
+    width: auto;
+    height: 700px;
     float:right;
+    margin: 20px;
 }
 
-ul {
-    line-height: 0.8;
-    color: orange;
-}
-p {
-    line-height: 0.5;
-    color: orange;
-}
+p,
+ul,
 ol {
-    line-height: 1.2;
-    color:orange;
+    color: rgb(232, 6, 6);
+    margin: 20px;
 }
-
